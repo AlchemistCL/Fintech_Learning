@@ -1,0 +1,4 @@
+#There are some ways to process the NaN data
+
+##Drop NaN
+df.dropna
